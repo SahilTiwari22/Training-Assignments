@@ -1,4 +1,4 @@
-package com.company;
+package com.Day3;
 
 public class ReverseDigit {
     public static void main(String[] args){
