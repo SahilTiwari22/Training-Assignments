@@ -1,4 +1,4 @@
-package Day9.Exercise;
+package Day9.Exercise.Ques1;
 import java.util.Scanner;
 
 public class sum {

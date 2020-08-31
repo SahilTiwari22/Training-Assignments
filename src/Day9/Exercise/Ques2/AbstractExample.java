@@ -1,4 +1,4 @@
-package Day9.Exercise;
+package Day9.Exercise.Ques2;
 
 public class AbstractExample {
     public static void main(String[] args) {
