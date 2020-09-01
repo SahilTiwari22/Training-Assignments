@@ -1,5 +1,5 @@
-package Day6.Package2;
-import Day6.Package1.Demo1;
+package Day7.Package2;
+import Day7.Package1.Demo1;
 
 public class Demo2 {
     public static void main(String[] args) {
