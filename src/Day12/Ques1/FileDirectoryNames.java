@@ -1,4 +1,4 @@
-package Day12ExceptHand.Ques1;
+package Day12.Ques1;
 
 import java.io.IOException;
 import java.io.*;
